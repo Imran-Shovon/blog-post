@@ -1,0 +1,11 @@
+{
+  //   "python.pythonPath": "C:/Users/abc/AppData/Local/Programs/Python/Python310",
+  "window.zoomLevel": 1,
+  "python.languageServer": "Pylance",
+  "files.associations": {
+    "**/.html": "html",
+    "templates/**/*": "django-txt",
+    "**/requirements{/**,*}{txt,in}": "pip-requirements"
+  },
+  "emmet.includeLanguages": { "django-html": "html" }
+}
